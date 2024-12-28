@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 
 
 # Hello, I'm Zidan
+
+![bg-github](https://github.com/user-attachments/assets/b0c4502e-e844-48a8-b048-4204ebd0459c)
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/bcfc9a3d-59fe-4299-88a7-01c42d9ee2a8" alt="bf9" />
   <img src="https://github.com/user-attachments/assets/bcfc9a3d-59fe-4299-88a7-01c42d9ee2a8" alt="bf9" />
