@@ -15,24 +15,20 @@ Here are some ideas to get you started:
 
 
 
-# Hello, I'm Zidan
 
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/79c75ea0-967d-4d67-b3b6-e3fc3cf9bf58" alt="bg-profile" />
 </div>
 
+# 😼Hi!, Nice to see you
+Hi, I'm Zidane, a Computer Science student passionate about software development and problem-solving.  I enjoy building web applications, creating efficient algorithms, and working with data. Currently exploring opportunities in full-stack development and AI-driven projects.
+
 <br>
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/bcfc9a3d-59fe-4299-88a7-01c42d9ee2a8" alt="bf9" />
-  <img src="https://github.com/user-attachments/assets/bcfc9a3d-59fe-4299-88a7-01c42d9ee2a8" alt="bf9" />
-  <img src="https://github.com/user-attachments/assets/bcfc9a3d-59fe-4299-88a7-01c42d9ee2a8" alt="bf9" />
-</div>
 
 
 
 
-</a>
 
 # 💻 I'm Using:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -100,4 +96,10 @@ Here are some ideas to get you started:
   <a href="https://x.com/zidaneelfasya">
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
   </a>
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/bcfc9a3d-59fe-4299-88a7-01c42d9ee2a8" alt="bf9" />
+  <img src="https://github.com/user-attachments/assets/bcfc9a3d-59fe-4299-88a7-01c42d9ee2a8" alt="bf9" />
+  <img src="https://github.com/user-attachments/assets/bcfc9a3d-59fe-4299-88a7-01c42d9ee2a8" alt="bf9" />
 </div>
