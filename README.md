@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<iframe src="https://giphy.com/embed/3o72FkiKGMGauydfyg" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/arielle-m-coming-soon-3o72FkiKGMGauydfyg">via GIPHY</a></p>
+<img align="right" height="150" src="https://giphy.com/embed/3o72FkiKGMGauydfyg" />
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zidaneelfasya/zidaneelfasya/output/github-snake-dark.svg" />
