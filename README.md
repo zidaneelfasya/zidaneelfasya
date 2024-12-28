@@ -49,18 +49,10 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-# 🌐 Socials:
+# 📊 GitHub
 
-<a href="https://instagram.com/zidaneelfasyaa" target="blank">  
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-</a>
-<a href="https://linkedin.com/in/zidaneelfasyaa" target="blank">  
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</a>
-<a href="mailto:zidaneelfasyaa@gmail.com" target="blank">  
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 
-<br>
+
 <br>
 
 
@@ -80,19 +72,25 @@ Here are some ideas to get you started:
 </picture>
 
 
+## 
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=zidaneelfasya&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="180px" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidaneelfasya&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="180px" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" >
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=zidaneelfasya&theme=radical&hide_border=false" alt="GitHub Streak" height="180px" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://discord.gg/zidaneelfasya">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://facebook.com/zidaneelfasya">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://instagram.com/zidaneelfasyaa">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://linkedin.com/in/zidaneelfasya">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://tiktok.com/@zidaneelfasya">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok">
+  </a>
+  <a href="https://x.com/zidaneelfasya">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
+  </a>
+</div>
