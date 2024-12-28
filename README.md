@@ -63,6 +63,24 @@ Here are some ideas to get you started:
 <br>
 <br>
 
+
+<div>
+   <img src="https://github-readme-stats.vercel.app/api?username=zidaneelfasya&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="180px" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidaneelfasya&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="180px" />
+</div>
+<div align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zidaneelfasya&theme=radical&hide_border=false" alt="GitHub Streak" height="180px" />
+</div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zidaneelfasya/zidaneelfasya/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zidaneelfasya/zidaneelfasya/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+
+
 <table>
   <tr>
     <td>
@@ -73,17 +91,8 @@ Here are some ideas to get you started:
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td colspan="2" >
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=zidaneelfasya&theme=radical&hide_border=false" alt="GitHub Streak" height="180px" />
     </td>
   </tr>
 </table>
-
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zidaneelfasya/zidaneelfasya/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zidaneelfasya/zidaneelfasya/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
