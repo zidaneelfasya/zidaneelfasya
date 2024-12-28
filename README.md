@@ -62,7 +62,6 @@ Here are some ideas to get you started:
 
 <br>
 
-# 📊 GitHub Stats:
 <table>
   <tr>
     <td>
