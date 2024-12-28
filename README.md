@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/edd35ced-8441-4a4e-b17d-c3c19ffb905c" alt="bg-profile" />
+  <img src="https://github.com/user-attachments/assets/79c75ea0-967d-4d67-b3b6-e3fc3cf9bf58" alt="bg-profile" />
 </div>
 
 <br>
