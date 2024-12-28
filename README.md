@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 
 <div>
-   <img src="https://github-readme-stats.vercel.app/api?username=zidaneelfasya&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="195px" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidaneelfasya&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="195px" />
+   <img src="https://github-readme-stats.vercel.app/api?username=zidaneelfasya&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="201px" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidaneelfasya&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="201px" />
 </div>
 <div align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zidaneelfasya&theme=radical&hide_border=false" alt="GitHub Streak" height="195px" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zidaneelfasya&theme=radical&hide_border=false" alt="GitHub Streak" height="201px" />
 </div>
 
 
