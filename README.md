@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/9baaf716-c3aa-48da-98db-3bcd7836b049" />
+  <img src="https://github.com/user-attachments/assets/fb0925f7-f290-4cdf-b3cf-737d42ee9f96" />
 </div>
 
 # 😼Hi!, Nice to see you
