@@ -61,7 +61,7 @@ Hi, I'm Zidane, a Computer Science student passionate about software development
 
 
 <div>
-   <img src="https://github-readme-stats.vercel.app/api?username=zidaneelfasya&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="200px" />
+   <img src="https://github-readme-stats.vercel.app/api?username=zidaneelfasya&theme=radical&hide_border=false&include_all_commits=false&count_private=false&rank_icon=github" alt="GitHub Stats" height="200px" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidaneelfasya&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="200px" />
 </div>
 <div align="center">
